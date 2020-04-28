@@ -1,0 +1,12 @@
+F:\DB(3-2)\학기말프로젝트\TrainProject_Rev\TrainProject\TrainProject\bin\Release\TrainProject.exe.config
+F:\DB(3-2)\학기말프로젝트\TrainProject_Rev\TrainProject\TrainProject\bin\Release\TrainProject.exe
+F:\DB(3-2)\학기말프로젝트\TrainProject_Rev\TrainProject\TrainProject\bin\Release\TrainProject.pdb
+F:\DB(3-2)\학기말프로젝트\TrainProject_Rev\TrainProject\TrainProject\bin\Release\Oracle.DataAccess.dll
+F:\DB(3-2)\학기말프로젝트\TrainProject_Rev\TrainProject\TrainProject\obj\Release\TrainProject.joinPage.resources
+F:\DB(3-2)\학기말프로젝트\TrainProject_Rev\TrainProject\TrainProject\obj\Release\TrainProject.loginPage.resources
+F:\DB(3-2)\학기말프로젝트\TrainProject_Rev\TrainProject\TrainProject\obj\Release\TrainProject.mainPage.resources
+F:\DB(3-2)\학기말프로젝트\TrainProject_Rev\TrainProject\TrainProject\obj\Release\TrainProject.mainPage1.resources
+F:\DB(3-2)\학기말프로젝트\TrainProject_Rev\TrainProject\TrainProject\obj\Release\TrainProject.Properties.Resources.resources
+F:\DB(3-2)\학기말프로젝트\TrainProject_Rev\TrainProject\TrainProject\obj\Release\TrainProject.csproj.GenerateResource.Cache
+F:\DB(3-2)\학기말프로젝트\TrainProject_Rev\TrainProject\TrainProject\obj\Release\TrainProject.exe
+F:\DB(3-2)\학기말프로젝트\TrainProject_Rev\TrainProject\TrainProject\obj\Release\TrainProject.pdb
